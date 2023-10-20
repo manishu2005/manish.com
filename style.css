@@ -1,0 +1,65 @@
+.facebook{
+  display: flex;
+}
+.login{
+  margin-top: 15%;
+  height: 1%;
+  width: 40%;
+}
+.lines{
+  color: black;
+  margin-bottom: 90%;
+  font-size: 1.5rem;
+  margin-left: 9%;
+}
+.box{
+  width: 50%;
+  border-radius: 50px;
+}
+.box1{
+  height: 50%;
+  width: 100%;
+  margin-top: 40%;
+  font-size: 1.5rem;
+  margin-left: 10%;
+  border-radius: 50px;
+}
+.box2{
+  margin-left: 10%;
+  border-radius: 50px;
+}
+.log{
+  background-color: blue;
+  color: white;
+  height: 30Px;
+  width: 70%;
+  margin-top: 4%;
+  margin-left: 10%;
+  border-radius: 5px;
+}
+.box3{
+  margin-left: 45%;
+  font-size: 1.5rem;
+}
+.forget{
+  color: blue;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.new{
+  background-color: green;
+  color: white;
+  width: 30%;
+  height: 90%;
+  margin-left: 33%;
+  border-radius: 4px;
+  margin-top: 4%;
+}
+.account{
+  font-size: 1.2rem;
+  margin-left: 20%;
+}
+.create{
+  margin-left: 70%;
+  margin-top: 10%
+}
